@@ -1,7 +1,6 @@
 def menu():
  n = int(input('Numero de peticiones: '))
  peticiones = []
-
  i = 0
  print('Ingrese las peticiones en un rango de 0-199')
  while i < n:
@@ -45,21 +44,55 @@ def menu():
   c_look(peticiones, inicial, bit)
  
 def fcfs(peticiones, inicial):
+ #peticiones -> lista de numeros enteros
+ #inicial -> numero entero 
+ #Mostrar tabla
+ #Imprimir desplazamiento
+ #Imprimir tiempo de espera promedio
  pass
 
 def sstf(peticiones, inicial):
+ #peticiones -> lista de numeros enteros
+ #inicial -> numero entero 
+ #Mostrar tabla
+ #Imprimir desplazamiento
+ #Imprimir tiempo de espera promedio
  pass
 
-def scan(peticiones, inicial, bit)
+def scan(peticiones, inicial, bit):
+ #peticiones -> lista de numeros enteros
+ #inicial -> numero entero 
+ #bit -> numero entero
+ #Mostrar tabla
+ #Imprimir desplazamiento
+ #Imprimir tiempo de espera promedio
  pass
 
-def c_scan(peticiones, inicial, bit)
+def c_scan(peticiones, inicial, bit):
+ #peticiones -> lista de numeros enteros
+ #inicial -> numero entero 
+ #bit -> numero entero
+ #Mostrar tabla
+ #Imprimir desplazamiento
+ #Imprimir tiempo de espera promedio
  pass
 
-def look(peticiones, inicial, bit)
+def look(peticiones, inicial, bit):
+ #peticiones -> lista de numeros enteros
+ #inicial -> numero entero 
+ #bit -> numero entero
+ #Mostrar tabla
+ #Imprimir desplazamiento
+ #Imprimir tiempo de espera promedio
  pass
 
-def c_look(peticiones, inicial, bit)
+def c_look(peticiones, inicial, bit):
+ #peticiones -> lista de numeros enteros
+ #inicial -> numero entero 
+ #bit -> numero entero
+ #Mostrar tabla
+ #Imprimir desplazamiento
+ #Imprimir tiempo de espera promedio
  pass
 
 
